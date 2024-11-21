@@ -1,0 +1,29 @@
+
+/*
+
+Inserindo valores do time Santos
+
+insert into verfutapp.team_player (team_id, player_id) value (7,67);
+insert into verfutapp.team_player (team_id, player_id) value (7,68);
+insert into verfutapp.team_player (team_id, player_id) value (7,69);
+insert into verfutapp.team_player (team_id, player_id) value (7,70);
+insert into verfutapp.team_player (team_id, player_id) value (7,71);
+insert into verfutapp.team_player (team_id, player_id) value (7,72);
+insert into verfutapp.team_player (team_id, player_id) value (7,73);
+insert into verfutapp.team_player (team_id, player_id) value (7,74);
+insert into verfutapp.team_player (team_id, player_id) value (7,75);
+insert into verfutapp.team_player (team_id, player_id) value (7,76);
+insert into verfutapp.team_player (team_id, player_id) value (7,77);
+
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("67","40", "Fischer", "Goleiro");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("68","40", "Bigula","1");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("69","40", "Fubá","2");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("70","40", "Juliano Cabelo","3");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("71","40", "Cleandro", "4");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("72","40", "Marcos Silva","5");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("73","40", "Tiago Simão","6");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("74","40", "Luis Ricardo","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("75","40", "Cleber Avanzo","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("76","40", "Hulck","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("77","40", "Chacrinha","Livre");
+*/

@@ -1,0 +1,29 @@
+
+/*
+
+Inserindo valores do time Bahia
+
+insert into verfutapp.team_player (team_id, player_id) value (8,78);
+insert into verfutapp.team_player (team_id, player_id) value (8,79);
+insert into verfutapp.team_player (team_id, player_id) value (8,80);
+insert into verfutapp.team_player (team_id, player_id) value (8,81);
+insert into verfutapp.team_player (team_id, player_id) value (8,82);
+insert into verfutapp.team_player (team_id, player_id) value (8,83);
+insert into verfutapp.team_player (team_id, player_id) value (8,84);
+insert into verfutapp.team_player (team_id, player_id) value (8,85);
+insert into verfutapp.team_player (team_id, player_id) value (8,86);
+insert into verfutapp.team_player (team_id, player_id) value (8,87);
+insert into verfutapp.team_player (team_id, player_id) value (8,88);
+
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("78","40", "CRB", "Goleiro");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("79","40", "Thimóteo","1");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("80","40", "João Ramos","2");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("81","40", "Galo","3");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("82","40", "Xede", "4");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("83","40", "Gusinho","5");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("84","40", "Marcelo Souza","6");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("85","40", "Fié","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("86","40", "Simionato","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("87","40", "Carlinhos Niz","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("88","40", "Danilo Augusti","Livre");
+*/

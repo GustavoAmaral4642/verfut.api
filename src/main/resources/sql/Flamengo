@@ -1,0 +1,29 @@
+
+/*
+
+Inserindo valores do time Flamengo
+
+insert into verfutapp.team_player (team_id, player_id) value (9,89);
+insert into verfutapp.team_player (team_id, player_id) value (9,90);
+insert into verfutapp.team_player (team_id, player_id) value (9,91);
+insert into verfutapp.team_player (team_id, player_id) value (9,92);
+insert into verfutapp.team_player (team_id, player_id) value (9,93);
+insert into verfutapp.team_player (team_id, player_id) value (9,94);
+insert into verfutapp.team_player (team_id, player_id) value (9,95);
+insert into verfutapp.team_player (team_id, player_id) value (9,96);
+insert into verfutapp.team_player (team_id, player_id) value (9,97);
+insert into verfutapp.team_player (team_id, player_id) value (9,98);
+insert into verfutapp.team_player (team_id, player_id) value (9,99);
+
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("89","40", "Tessari", "Goleiro");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("90","40", "Nélio","1");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("91","40", "Éder","2");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("92","40", "Clebinho","3");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("93","40", "Aroldo", "4");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("94","40", "Grisi","5");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("95","40", "Porquinho","6");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("96","40", "Alex Pierre","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("97","40", "Big","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("98","40", "Cory","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("99","40", "Pilli","Livre");
+*/

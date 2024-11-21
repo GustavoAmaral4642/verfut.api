@@ -1,0 +1,28 @@
+
+/*
+
+Inserindo valores do time Palmeiras
+insert into verfutapp.team_player (team_id, player_id) value (5,45);
+insert into verfutapp.team_player (team_id, player_id) value (5,46);
+insert into verfutapp.team_player (team_id, player_id) value (5,47);
+insert into verfutapp.team_player (team_id, player_id) value (5,48);
+insert into verfutapp.team_player (team_id, player_id) value (5,49);
+insert into verfutapp.team_player (team_id, player_id) value (5,50);
+insert into verfutapp.team_player (team_id, player_id) value (5,51);
+insert into verfutapp.team_player (team_id, player_id) value (5,52);
+insert into verfutapp.team_player (team_id, player_id) value (5,53);
+insert into verfutapp.team_player (team_id, player_id) value (5,54);
+insert into verfutapp.team_player (team_id, player_id) value (5,55);
+
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("45","40", "Perin", "Goleiro");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("46","40", "Leandrinho","1");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("47","40", "Edmar","2");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("48","40", "Coxinha","3");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("49","40", "Juliano Alves", "4");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("50","40", "Tinho","5");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("51","40", "Alisson","6");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("52","40", "Gustavo Gallo","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("53","40", "Luis Fabiano","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("54","40", "Mineiro","Livre");
+insert into verfutapp.player (player_id, player_age, player_name, player_range) values ("55","40", "Éric Risso","Livre");
+*/
