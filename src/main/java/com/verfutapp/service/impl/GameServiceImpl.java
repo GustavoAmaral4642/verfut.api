@@ -25,9 +25,7 @@ public class GameServiceImpl implements GameService {
     }
 
     public List<GameModel> getAll(){
-
         List<Game> games = gameRepository.findAll();
-
         return GameDTO.gameToGameDTO(games);
     }
 

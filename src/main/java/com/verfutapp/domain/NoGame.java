@@ -19,12 +19,12 @@ public class NoGame {
     @Column(name = "no_game_id")
     private Long id;
 
-//    @Column(name = "hour_game", nullable = false)
-//    private String hourgame;
+    @ManyToOne
+    @JoinColumn(name = "team")
+    private Team team;
 
-//    @Column(name = "hour_game", nullable = false)
-//    private Team teamA;
-//
-//    @Column(name = "hour_game", nullable = false)
-//    private Team TeamB;
+    @ManyToOne
+    @JoinColumn(name = "game_id")
+    private Game game;
+
 }

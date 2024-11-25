@@ -16,5 +16,6 @@ public class GameModel {
     private Long id;
     private String dateGame;
     private String numberRound;
-    private List<ItemGameModel> itensGames = new ArrayList<>();
+    private List<ItemGameModel> itensGames;
+    private String noGames;
 }

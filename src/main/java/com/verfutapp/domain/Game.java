@@ -31,7 +31,7 @@ public class Game {
     @OneToMany(mappedBy = "game", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<ItemGame> itensGames = new ArrayList<>();
 
-//    @Column(name = "no_game", nullable = false)
-//    private NoGame noGame;
+    @OneToMany(mappedBy = "game", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<NoGame> noGames = new ArrayList<>();
 
 }

@@ -26,9 +26,21 @@ public class ItemGame {
     @JoinColumn(name = "team_a_id")
     private Team teamA;
 
+    @Column(name = "total_goals_team_a")
+    private String totalGoalsTeamA;
+
+    @Column(name = "points_received_team_a")
+    private String pointsReceivedTeamA;
+
     @ManyToOne
     @JoinColumn(name = "team_b_id")
-    private Team TeamB;
+    private Team teamB;
+
+    @Column(name = "total_goals_team_b")
+    private String totalGoalsTeamB;
+
+    @Column(name = "points_received_team_b")
+    private String pointsReceivedTeamB;
 
     @ManyToOne
     @JoinColumn(name = "game_id")
